@@ -3,7 +3,7 @@
 
 <!-- Profile Header -->
 <h1 align="center">✨ Welcome to my profile ありがとう 👾</h1>
-<img align="right" alt="Coding" width="300" src="./img/infinityTrainSticker-1.png">
+<img align="right" alt="Coding" width="250" src="./img/infinityTrainSticker-1.png">
 
 <!-- Introduction Section -->
 <ul>
@@ -15,7 +15,7 @@
 
 <!-- Knowledge and Languages Section -->
 <h2 align="center">✨ Conhecimentos e Linguagens 知識💻</h2>
-<img align="left" alt="Coding" width="300" src="./img/infinityTrainSticker-2.png">
+<img align="left" alt="Coding" width="250" src="./img/infinityTrainSticker-2.png">
 
 <ul>
   <li>Atualmente, estou matriculado no curso de Tecnologia da Informação no <a href="https://www.sp.senac.br/senac-americana">Senac - Americana</a>📙, onde tenho a oportunidade de aprimorar minhas habilidades em manutenção e montagem de computadores, infraestrutura de redes, lógica de programação e desenvolvimento web.</li>
@@ -46,7 +46,7 @@
 </br>
 
 <!-- Technologies and Platforms Section -->
-<img align="right" alt="Coding" width="300" src="./img/infinityTrainSticker-3.png">
+<img align="right" alt="Coding" width="250" src="./img/infinityTrainSticker-3.png">
 
 <details align="center">
   <summary>✨ Tecnologias e Plataformas テクノロジー 💻</summary>
