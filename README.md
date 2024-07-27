@@ -6,7 +6,7 @@
 
 <h2 align="center">✨ Welcome to my profile ありがとう 👾</h2>
 
-<img align="right" alt="Coding" width="200" src="./img/infinityTrainSticker-1.png">
+<img align="right" alt="Coding" width="150" src="./img/infinityTrainSticker-1.png">
 <p align="left">🖐🏼 Olá, eu me chamo <strong>Matheus Dantas</strong> 🤓, mas na web sou conhecido como <strong>Downzin</strong>🤗. Desenvolvo projetos de bots para Discord, websites e design. Tenho uma paixão por aprender e adquirir conhecimentos sobre novas tecnologias! <strong>(●'◡'●)</strong></p>
 <p align="left">🧩 Tenho grande afinidade com desenhos, animes e jogos, e sou ativo em diversas comunidades no Discord, onde busco não só interação social, mas também aprendizado e oportunidades de negócio.📚 Estou em constante aprimoramento nas áreas de audiovisual, design, web design, programação e desenvolvimento pessoal, visando oferecer entretenimento de excelência e qualidade incomparável. <strong>(¬‿¬)</strong></p>
 
@@ -14,14 +14,13 @@
 
 <h2 align="center">✨ Conhecimentos e Linguagens 知識💻</h2>
 
-<img align="left" alt="Coding" width="200" src="./img/infinityTrainSticker-2.png"> 
+<img align="left" alt="Coding" width="150" src="./img/infinityTrainSticker-2.png"> 
 <p align='left'>tualmente, estou matriculado no curso de Tecnologia da Informação no <a href="https://www.sp.senac.br/senac-americana">Senac - Americana</a>📙, onde tenho a oportunidade de aprimorar minhas habilidades em manutenção e montagem de computadores, infraestrutura de redes, lógica de programação e desenvolvimento web.</p>
 <p align='left'>Além disso, venho complementando meu aprendizado por meio dos cursos oferecidos pela <a href="https://www.alura.com.br">Alura</a>📗, uma referência no aprimoramento das minhas habilidades em programação e UI & UX. Essa trajetória de aprendizado teve início com a programação de bots no Discord, e hoje posso compartilhar orgulhosamente os conhecimentos que adquiri até o momento:</p>
 
 ###
-
 <!-- Frameworks, Languages & Technologies Section -->
-<details align="left">
+<details align="center">
   <summary>🚀 Frameworks, Linguagens & Tecnologias 私の知識 💻</summary>
   <p align="center">
     <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
@@ -42,12 +41,12 @@
 
 ###
 
-<!-- Technologies and Platforms Section -->
-<img align="left" alt="Coding" width="200" src="./img/infinityTrainSticker-3.png">
+</br>
 
-<details align="left">
+<!-- Technologies and Platforms Section -->
+<details align="center">
   <summary>✨ Tecnologias e Plataformas テクノロジー 💻</summary>
-  <p align="left" style="margin-right: 20px;">
+  <p align="center" style="margin-right: 20px;">
     <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" alt="Adobe Premiere Pro"/>
     <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva"/>
     <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
@@ -58,9 +57,9 @@
 </br>
 
 <!-- Programming Languages to Learn Section -->
-<details>
+<details align="center">
   <summary>📚 Linguagens de Programação que quero Aprender 学ぶ 💻</summary>
-  <p align="left">
+  <p align="center">
     <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
     <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
@@ -74,9 +73,9 @@
 </br>
 
 <!-- Technologies to Learn Section -->
-<details>
+<details align="center">
   <summary>📚 Tecnologias que quero Aprender 学ぶ 💻</summary>
-  <p align="left">
+  <p align="center">
     <img src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js" />
     <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js" />
     <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
@@ -108,9 +107,10 @@
 ---
 <section align="center">
     <p>Estou constantemente buscando aprimorar minhas habilidades e expandir meus conhecimentos nas diversas tecnologias que mencionei. A jornada de aprendizado é contínua e estou animado para explorar novas oportunidades e desafios. 😸</p>
+    <h2>💻 Contato 接触</h2>
     <p>😀 Se você tiver sugestões, feedback ou quiser colaborar em algum projeto, ficarei feliz em ouvir de você! 😁</p>
 
-<h3>💻 Contato 接触</h3>
+
 <p>
   <a href="mailto:dantasmatheus001@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -127,7 +127,7 @@
 </p>
 </section>
 
-###
+---
 
 <br clear="both">
 
@@ -138,7 +138,5 @@
 <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=z2bs8fmip8jk1pz3n7a89i55p&count=4" alt="Spotify recently played"  />
 </div>
-
-###
 
 [![](https://visitcount.itsvg.in/api?id=Downzin01&icon=0&color=0)](https://visitcount.itsvg.in)
