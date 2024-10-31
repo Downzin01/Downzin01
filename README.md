@@ -13,7 +13,7 @@
     </a>
   </div>
   
-  <img align="right" alt="Coding" width="170" src="./img/img.png">
+  <img align="right" alt="Coding" width="150" src="./img/Image01.png">
   
   <p align="left">
     <blockquote>
@@ -36,18 +36,14 @@
     <p>知識</p>
   </div>
 
-  <img align="left" alt="Coding" width="170" src="./img/img.png"> 
+  <img align="left" alt="Coding" width="150" src="./img/Image02.png"> 
 
   <p align="left">
-    <blockquote>
-      &nbsp;&nbsp;&nbsp;Atualmente, estou matriculado no curso de Tecnologia da Informação no <a href="https://www.sp.senac.br/senac-americana">Senac - Americana</a> 📙, onde tenho a oportunidade de aprimorar minhas habilidades em manutenção e montagem de computadores, infraestrutura de redes, lógica de programação e desenvolvimento web.
-    </blockquote>
+    &nbsp;&nbsp;&nbsp;Atualmente, estou matriculado no curso de Tecnologia da Informação no <a href="https://www.sp.senac.br/senac-americana">Senac - Americana</a> 📙, onde tenho a oportunidade de aprimorar minhas habilidades em manutenção e montagem de computadores, infraestrutura de redes, lógica de programação e desenvolvimento web.
   </p>
 
   <p align="left">
-    <blockquote>
-      &nbsp;&nbsp;&nbsp;Além disso, venho complementando meu aprendizado por meio dos cursos oferecidos pela <a href="https://www.alura.com.br">Alura</a> 📗, uma referência no aprimoramento das minhas habilidades em programação e UI & UX. Essa trajetória de aprendizado teve início com a programação de bots no Discord, e hoje posso compartilhar orgulhosamente os conhecimentos que adquiri até o momento:
-    </blockquote>
+    &nbsp;&nbsp;&nbsp;Além disso, venho complementando meu aprendizado por meio dos cursos oferecidos pela <a href="https://www.alura.com.br">Alura</a> 📗, uma referência no aprimoramento das minhas habilidades em programação e UI & UX. Essa trajetória de aprendizado teve início com a programação de bots no Discord, e hoje posso compartilhar orgulhosamente os conhecimentos que adquiri até o momento:
   </p>
 </section>
 
